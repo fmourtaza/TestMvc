@@ -204,8 +204,6 @@ C:\temp\TestMvc1\TestMvc1\bin\Microsoft.AI.DependencyCollector.xml
 C:\temp\TestMvc1\TestMvc1\bin\Microsoft.AI.WindowsServer.xml
 C:\temp\TestMvc1\TestMvc1\bin\Microsoft.AI.Web.xml
 C:\temp\TestMvc1\TestMvc1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\temp\TestMvc1\TestMvc1\obj\Debug\TestMvc1.csprojAssemblyReference.cache
-C:\temp\TestMvc1\TestMvc1\obj\Debug\TestMvc1.csproj.CoreCompileInputs.cache
-C:\temp\TestMvc1\TestMvc1\obj\Debug\TestMvc1.csproj.CopyComplete
 C:\temp\TestMvc1\TestMvc1\obj\Debug\TestMvc1.dll
 C:\temp\TestMvc1\TestMvc1\obj\Debug\TestMvc1.pdb
+C:\temp\TestMvc1\TestMvc1\obj\Debug\TestMvc1.csprojResolveAssemblyReference.cache
