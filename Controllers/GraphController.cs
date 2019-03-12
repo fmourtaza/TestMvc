@@ -17,7 +17,6 @@ namespace TestMvc1.Controllers
         //public static string uriString = "https://{youwebapp}.azurewebsites.net/Graph/GetToken";
         public static string authorityURL = @"https://login.microsoftonline.com/" + tenantId;
         public static string resource = @"https://graph.microsoft.com";
-        
 
         public ActionResult Index(string authenticationCode)
         {
